@@ -1,0 +1,11 @@
+.p1-card {
+    height: 260px;
+    justify-content: center;
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+/* .corner{
+    display: flex;
+    margin-top: -25%;
+} */
